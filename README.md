@@ -1,4 +1,4 @@
-# KLASHA FRONTEND ASSESSMENT
+# Gradell FRONTEND ASSESSMENT
 
 ## Overview [Live Demo](https://emekankwo-klasha.netlify.app/)
 
