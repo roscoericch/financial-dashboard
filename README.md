@@ -1,7 +1,3 @@
-# Gradell FRONTEND ASSESSMENT
-
-## Overview [Live Demo](https://emekankwo-klasha.netlify.app/)
-
 This is a Admin dashboard application that displays and monitors the sales report for daily, monthly transactions of users and has data visualization integration for sales overview. The application was built using React, MaterialUI, TailwindCSS and React Hooks.
 
 ## Logs
